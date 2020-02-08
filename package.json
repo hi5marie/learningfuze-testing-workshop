@@ -9,7 +9,8 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "test": "echo 'add a test command"
+    "test": "jest",
+    "test": "jest-watch"
   },
   "prettier": {
     "semi": false,

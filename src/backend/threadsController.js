@@ -1,4 +1,4 @@
-import { ThreadsService } from './threadsService'
+import { threadsController } from '../threadsController'
 
 /**
  * Handles requests related to fetching multiple threads.
