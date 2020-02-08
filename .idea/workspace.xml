@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ca47219-f592-421c-87cc-d4c4fd4ed314" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,23 +27,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="5" />
+          <entry key="JSON" value="70" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="360">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -137,19 +135,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581201892352</updated>
-      <workItem from="1581201894728" duration="599000" />
+      <workItem from="1581201894728" duration="1002000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="599000" />
+    <option name="totallyTimeSpent" value="1002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="23" width="1314" height="858" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
-      <window_info active="true" content_ui="combo" x="607" y="80" width="226" height="762" id="Project" order="0" sideWeight="0.4910072" side_tool="true" visible="true" weight="0.16116352" />
+      <window_info content_ui="combo" x="607" y="80" width="226" height="762" id="Project" order="0" sideWeight="0.4910072" side_tool="true" visible="true" weight="0.16116352" />
       <window_info id="Structure" order="1" sideWeight="0.507874" side_tool="true" weight="0.2083682" />
       <window_info id="Favorites" order="2" sideWeight="0.5089928" side_tool="true" weight="0.26778242" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,8 +157,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32735425" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.40229884" weight="0.1217656" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49444443" weight="0.316847" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.40229884" visible="true" weight="0.2960969" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49444443" weight="0.31628534" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.59770113" side_tool="true" weight="0.22047244" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32991204" />
@@ -188,15 +185,15 @@
         <state relative-caret-position="-1789" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
